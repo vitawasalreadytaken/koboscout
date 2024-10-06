@@ -2,6 +2,7 @@ import { type GlucoseRecord, type Settings, MMOL_TO_MGDL } from "./data"
 
 const TREND_TO_SYMBOL = {
   None: "",
+  NONE: "",
   DoubleUp: "↑↑",
   SingleUp: "↑",
   FortyFiveUp: "↗",
